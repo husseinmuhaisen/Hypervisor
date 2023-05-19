@@ -60,7 +60,8 @@ Hypervisors play a crucial role in server virtualization, allowing organizations
 6. [ACRN Hypervisors](https://github.com/projectacrn/acrn-hypervisor)
 7. [Kraken A simple x86_64 AMD-V Hyper visor](https://github.com/medievalghoul/krakensvm-mg)
 8. [tiniest x86-64 Linux emulator](https://github.com/jart/blink)
-9. [Hyper-V hacking framework - Voyager](https://github.com/unreaIuser/Voyager)
+9. [Light-weight Intel x64/VT-x hypervisor written in C++](https://github.com/wbenny/hvpp)
+10. [Hyper-V hacking framework - Voyager](https://github.com/unreaIuser/Voyager)
 
 
 
