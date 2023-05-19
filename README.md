@@ -2,23 +2,23 @@
 
 ### 🤝 Support is appreciated 🤝
 [Support page](https://www.buymeacoffee.com/husseinmuhaisen)
-[Other repos](https://github.com/AtonceInventions/DiscordOSINT)
+
 
 ![Hype](https://image.lexica.art/full_jpg/744b7525-ebe3-419a-a5b0-d4bf867bb7f1)
 
 
 
-## Awesome Repos 😁
+## 😁 Awesome Repos 😁
 1. [Awesome Virtualization](https://github.com/Wenzel/awesome-virtualization)
 2. [Awesome Hyper-V exploitation](https://github.com/shogunlab/awesome-hyper-v-exploitation)
 3. [Awesome Vulnerability research](https://github.com/securitychampions/Awesome-Vulnerability-Research)
 
-## Books 📖
+## 📖 Books 📖
 1. [Virtual Machines: Versatile Platforms for Systems and Processes](https://www.amazon.com/dp/1558609105)
 2. [Micro Kernel Book](https://github.com/nuta/microkernel-book)
 
 
-## Learning path-ways 🛣️
+## 🛣️ Learning path-ways 🛣️
 1. [RayanFam - Hyper visor from scratch](https://rayanfam.com/topics/hypervisor-from-scratch-part-1/)
 2. [7 Days to Virtualization: A Series on Hypervisor Development](https://revers.engineering/7-days-to-virtualization-a-series-on-hypervisor-development/)
 3. [NixHacker developing a hyper visor from scratch](https://nixhacker.com/developing-hypervisior-from-scratch-part-1/)
@@ -32,7 +32,7 @@
 11. [Hyper-V attack surface](https://www.youtube.com/watch?v=JG1umiZKYpQ&list=PLH15HpR5qRsVKcKwvIl-AzGfRqKyx--zq&index=18)
 12. [Building a minimalstic Virtual machine](https://pointersgonewild.com/2023/02/24/building-a-minimalistic-virtual-machine/)
 
-## Internals 🕸️
+## 🕸️ Internals 🕸️
 1. [HV - Internals](https://hvinternals.blogspot.com/2015/10/hyper-v-internals.html)
 2. [Internals information about Hyper-V](https://github.com/gerhart01/Hyper-V-Internals)
 3. [Virtualization Internals Part 1 - Intro to Virtualization](http://web.archive.org/web/20180525151921/https://saferwall.com/blog/virtualization-internals-part-1-intro-to-virtualization)
@@ -40,7 +40,7 @@
 5. [Virtualization Internals Part 3 - Xen and Paravirtualization](http://web.archive.org/web/20190209200331/https://saferwall.com/blog/virtualization-internals-part-3-xen-and-paravirtualization)
 6. [Virtual machine in C](https://web.archive.org/web/20200121100942/https://blog.felixangell.com/virtual-machine-in-c/)
 
-## HyperVisors 🔗
+## 🔗 HyperVisors 🔗
 1. [Light-weight Hyper-visor SDK](https://github.com/Bareflank/hypervisor)
 2. [Hyper-V solution for x86 processors](https://github.com/Zero-Tang/NoirVisor)
 3. [Windows Hyper-visor platform docs/API](https://docs.microsoft.com/en-us/virtualization/api/hypervisor-platform/hypervisor-platform)
@@ -53,7 +53,7 @@
 
 
 
-## Miscellaneous 👽
+## 👽 Miscellaneous 👽
 1. [Detecting VMware by reading invalid msr](https://howtohypervise.blogspot.com/2018/09/detecting-vmware-by-reading-invalid-msr.html)
 2. [Windows Kernel](https://www.matteomalvica.com/minutes/windows_kernel/)
 3. [Revisiting hardware-assisted page walks for virtualized systems](https://dl.acm.org/doi/abs/10.5555/2337159.2337214?download=true)
