@@ -3,6 +3,17 @@
 ### 🤝 Support is appreciated 🤝
 [Support page](https://www.buymeacoffee.com/husseinmuhaisen)
 
+## *Hyper-visor*
+
+A hypervisor, also known as a virtual machine monitor (VMM), is a software, firmware, or hardware component that enables the creation and management of virtual machines (VMs) on a physical host machine. It allows multiple operating systems (OS) or virtual machines to run concurrently on a single physical server, effectively partitioning the available resources such as CPU, memory, storage, and networking.
+
+There are two main types of hypervisors:
+
+1. **Type 1 Hypervisor** (Bare-Metal Hypervisor): It runs directly on the host's hardware and provides a layer of abstraction between the physical hardware and the virtual machines. Examples of type 1 hypervisors include Microsoft Hyper-V, VMware ESXi, and Citrix XenServer.
+
+2. **Type 2 Hypervisor** (Hosted Hypervisor): It runs as a software layer on top of an existing operating system. The underlying operating system provides hardware abstraction, and the hypervisor manages the virtual machines. Examples of type 2 hypervisors include Oracle VirtualBox and VMware Workstation.
+
+Hypervisors play a crucial role in server virtualization, allowing organizations to consolidate their physical infrastructure, improve resource utilization, and simplify the management of multiple virtual machines. They also enable the creation of isolated and independent virtual environments for testing, development, and deployment of applications without impacting the underlying host system.
 
 ![Hype](https://image.lexica.art/full_jpg/744b7525-ebe3-419a-a5b0-d4bf867bb7f1)
 
