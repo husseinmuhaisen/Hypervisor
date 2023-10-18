@@ -94,3 +94,4 @@ Hypervisors play a crucial role in server virtualization, allowing organizations
 26. [Apple data formats](http://docs.hackdiffe.rent/)
 27. [Exploiting windows vulnerabilities with Hyper-V](https://reversing.info/posts/hyperdeceit/)
 28. [Hypervisor Detection with SystemHypervisorDetailInformation](https://medium.com/@matterpreter/hypervisor-detection-with-systemhypervisordetailinformation-26e44a57f80e)
+29. [Static devirtualization series](https://0xnobody.github.io/devirtualization-intro/)
