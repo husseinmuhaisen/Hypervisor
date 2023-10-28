@@ -30,7 +30,7 @@ Hypervisors play a crucial role in server virtualization, allowing organizations
 
 
 ## 🛣️ Learning path-ways 🛣️
-1. [RayanFam - Hyper visor from scratch](https://rayanfam.com/topics/hypervisor-from-scratch-part-1/)
+1. [RayanFam - Hyper visor from scratch](https://github.com/SinaKarvandi/Hypervisor-From-Scratch)
 2. [7 Days to Virtualization: A Series on Hypervisor Development](https://revers.engineering/7-days-to-virtualization-a-series-on-hypervisor-development/)
 3. [NixHacker developing a hyper visor from scratch](https://nixhacker.com/developing-hypervisior-from-scratch-part-1/)
 4. [Intro to Hypervisors for Game Hacking](https://guidedhacking.com/threads/intro-to-hypervisors-for-game-hacking.20145/)
