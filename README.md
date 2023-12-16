@@ -98,3 +98,4 @@ Hypervisors play a crucial role in server virtualization, allowing organizations
 30. [The new Hyper-V attack surface](https://www.youtube.com/watch?v=JG1umiZKYpQ&list=PLH15HpR5qRsVKcKwvIl-AzGfRqKyx--zq&index=17)
 31. [oracle-virtualbox-vhwa-use-after-free-privilege-escalation-vulnerability](https://starlabs.sg/blog/2020/06-oracle-virtualbox-vhwa-use-after-free-privilege-escalation-vulnerability/)
 32. [Writing a simple 16 bit VM in less than 125 lines of C ](https://www.andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-lines-of-c)
+33. [Modern VMWARE Exploitation Techniques](https://youtu.be/U-ZDVmahDCw?si=U9iusc9zMollgyM9)
