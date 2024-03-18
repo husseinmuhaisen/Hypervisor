@@ -1,7 +1,5 @@
 ## ❄️⚔️ The most comprehensive repository on Virtualization Cybersecurity edition ⚔️❄️
 
-### 🤝 Support is appreciated 🤝
-[Support page](https://www.buymeacoffee.com/husseinmuhaisen)
 
 ## *Hyper-visor*
 
