@@ -60,6 +60,7 @@ Hypervisors play a crucial role in server virtualization, allowing organizations
 8. [tiniest x86-64 Linux emulator](https://github.com/jart/blink)
 9. [Light-weight Intel x64/VT-x hypervisor written in C++](https://github.com/wbenny/hvpp)
 10. [Hyper-V hacking framework - Voyager](https://github.com/unreaIuser/Voyager)
+11. [Playground for generating virtual machine protected x64 assembly](https://github.com/notpidgey/EagleVM)
 
 
 
