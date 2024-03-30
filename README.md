@@ -61,6 +61,7 @@ Hypervisors play a crucial role in server virtualization, allowing organizations
 9. [Light-weight Intel x64/VT-x hypervisor written in C++](https://github.com/wbenny/hvpp)
 10. [Hyper-V hacking framework - Voyager](https://github.com/unreaIuser/Voyager)
 11. [Playground for generating virtual machine protected x64 assembly](https://github.com/notpidgey/EagleVM)
+12. [AMD Hypervisor](https://github.com/sariaki/amd-hypervisor/)
 
 
 
@@ -101,3 +102,4 @@ Hypervisors play a crucial role in server virtualization, allowing organizations
 34. [Writing a simple 16 bit VM in less than 125 lines of C](https://www.andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-lines-of-c)
 35. [Analysis of VirtualBox CVE-2023-21987 and CVE-2023-21991](https://qriousec.github.io/post/vbox-pwn2own-2023/)
 36. [Hyper-V Related work](https://github.com/ergot86/hyperv_stuff)
+37. [AMD-V Hypervisor dev](https://web.archive.org/web/20221004190101/https://www.back.engineering/04/08/2022/)
