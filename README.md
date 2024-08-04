@@ -40,6 +40,7 @@ Hypervisors play a crucial role in server virtualization, allowing organizations
 10. [AMD-V Hyper visor development](https://back.engineering/04/08/2022/)
 11. [Hyper-V attack surface](https://www.youtube.com/watch?v=JG1umiZKYpQ&list=PLH15HpR5qRsVKcKwvIl-AzGfRqKyx--zq&index=18)
 12. [Building a minimalstic Virtual machine](https://pointersgonewild.com/2023/02/24/building-a-minimalistic-virtual-machine/)
+13. [Write your own VM Justin Meiners](https://www.jmeiners.com/lc3-vm/)
 
 ## 🕸️ Internals 🕸️
 1. [HV - Internals](https://hvinternals.blogspot.com/2015/10/hyper-v-internals.html)
