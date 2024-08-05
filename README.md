@@ -41,6 +41,7 @@ Hypervisors play a crucial role in server virtualization, allowing organizations
 11. [Hyper-V attack surface](https://www.youtube.com/watch?v=JG1umiZKYpQ&list=PLH15HpR5qRsVKcKwvIl-AzGfRqKyx--zq&index=18)
 12. [Building a minimalstic Virtual machine](https://pointersgonewild.com/2023/02/24/building-a-minimalistic-virtual-machine/)
 13. [Write your own VM Justin Meiners](https://www.jmeiners.com/lc3-vm/)
+14. [CPU Emulation book](http://xsim.com/papers/Bario.2001.emubook.pdf)
 
 ## 🕸️ Internals 🕸️
 1. [HV - Internals](https://hvinternals.blogspot.com/2015/10/hyper-v-internals.html)
