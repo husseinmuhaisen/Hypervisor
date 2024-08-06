@@ -107,3 +107,4 @@ Hypervisors play a crucial role in server virtualization, allowing organizations
 36. [Hyper-V Related work](https://github.com/ergot86/hyperv_stuff)
 37. [AMD-V Hypervisor dev](https://web.archive.org/web/20221004190101/https://www.back.engineering/04/08/2022/)
 38. [How Aether visor works under the hood](https://mellownight.github.io/AetherVisor#nested-page-table-hooks)
+39. [Voyager - A Hyper-V Hacking Framework](https://back.engineering/blog/2024/07/30)
