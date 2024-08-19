@@ -109,4 +109,4 @@ Hypervisors play a crucial role in server virtualization, allowing organizations
 38. [How Aether visor works under the hood](https://mellownight.github.io/AetherVisor#nested-page-table-hooks)
 39. [Voyager - A Hyper-V Hacking Framework](https://back.engineering/blog/2024/07/30)
 40. [Building a Language VM](https://blog.subnetzero.io/post/building-language-vm-part-01/)
-41. [https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html](https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html)
+41. [Setting up an x86 CPU in 64-bit mode](https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html)
