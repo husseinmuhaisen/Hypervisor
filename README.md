@@ -112,3 +112,4 @@ Hypervisors play a crucial role in server virtualization, allowing organizations
 41. [Setting up an x86 CPU in 64-bit mode](https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html)
 42. [Dragon Slaying Guide:BugHuntingInVMware Device Virtualization](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20JiaQing%20Huang%20Hao%20Zheng%20Yue%20Liu%20-%20Dragon%20SlayingGuide%20Bug%20Hunting%20In%20VMware%20Device%20Virtualization.pdf)
 43. [Hyper-V internals researches history (2006-2024)](https://github.com/gerhart01/Hyper-V-Internals/blob/master/HyperVResearchesHistory.md)
+44. [intel vt-x type 2 hypervisor](https://github.com/donnaskiez/hv)
