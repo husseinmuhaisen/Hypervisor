@@ -113,3 +113,4 @@ Hypervisors play a crucial role in server virtualization, allowing organizations
 42. [Dragon Slaying Guide:BugHuntingInVMware Device Virtualization](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20JiaQing%20Huang%20Hao%20Zheng%20Yue%20Liu%20-%20Dragon%20SlayingGuide%20Bug%20Hunting%20In%20VMware%20Device%20Virtualization.pdf)
 43. [Hyper-V internals researches history (2006-2024)](https://github.com/gerhart01/Hyper-V-Internals/blob/master/HyperVResearchesHistory.md)
 44. [intel vt-x type 2 hypervisor](https://github.com/donnaskiez/hv)
+45. [Debugging the windows hypervisor](https://dor00tkit.github.io/Dor00tkit/posts/debugging-the-windows-hypervisor-inspecting-sk-calls/)
