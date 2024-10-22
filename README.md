@@ -51,6 +51,7 @@ Hypervisors play a crucial role in server virtualization, allowing organizations
 5. [Virtualization Internals Part 3 - Xen and Paravirtualization](http://web.archive.org/web/20190209200331/https://saferwall.com/blog/virtualization-internals-part-3-xen-and-paravirtualization)
 6. [Virtual machine in C](https://web.archive.org/web/20200121100942/https://blog.felixangell.com/virtual-machine-in-c/)
 7. [Debugging Hyper-V for vulnerability research](https://www.youtube.com/watch?v=zu5RwY2jIcs)
+8. [QEMU Internals](https://airbus-seclab.github.io/qemu_blog/)
 
 ## 🔗 HyperVisors 🔗
 1. [Light-weight Hyper-visor SDK](https://github.com/Bareflank/hypervisor)
