@@ -117,3 +117,4 @@ Hypervisors play a crucial role in server virtualization, allowing organizations
 44. [intel vt-x type 2 hypervisor](https://github.com/donnaskiez/hv)
 45. [Debugging the windows hypervisor](https://dor00tkit.github.io/Dor00tkit/posts/debugging-the-windows-hypervisor-inspecting-sk-calls/)
 46. [Oracle VM VirtualBox 7.0.10 r158379 Escape](https://zeroclick.sh/blog/cve-2023-22098/)
+47. [PS5 Hypervisor exploit + Slides](https://github.com/PS5Dev/Byepervisor?s=03)
