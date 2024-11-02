@@ -120,3 +120,4 @@ Hypervisors play a crucial role in server virtualization, allowing organizations
 47. [PS5 Hypervisor exploit + Slides](https://github.com/PS5Dev/Byepervisor?s=03)
 48. [D1 - Dragon Slaying Guide: Bug Hunting In VMware Device Virtualization](https://www.youtube.com/watch?v=r1aH2mKQy0w)
 49. [Coding a virtual machine from scratch in C](https://youtu.be/vymrj-2YD64?si=fPIhcxanhO9UQL96)
+50. [An overview of Hypervisor implants](https://hacklido.com/blog/907-a-basic-overview-of-hypervisor-implants)
