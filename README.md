@@ -1,8 +1,4 @@
-## ❄️⚔️ The most comprehensive repository on Virtualization Cybersecurity edition ⚔️❄️
-
-![Hype](https://image.lexica.art/full_jpg/744b7525-ebe3-419a-a5b0-d4bf867bb7f1)
-
-
+## The most comprehensive repository on Virtualization Cybersecurity edition
 
 ## 😁 Awesome Repos 😁
 1. [Awesome Virtualization](https://github.com/Wenzel/awesome-virtualization)
