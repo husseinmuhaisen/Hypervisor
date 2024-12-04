@@ -105,3 +105,4 @@
 49. [Coding a virtual machine from scratch in C](https://youtu.be/vymrj-2YD64?si=fPIhcxanhO9UQL96)
 50. [An overview of Hypervisor implants](https://hacklido.com/blog/907-a-basic-overview-of-hypervisor-implants)
 51. [Attacking Hypervisors a practical case](https://www.reversetactics.com/publications/2024_conf_grehack_virtualbox/)
+52. [Advanced x86 virtualization](https://drive.google.com/drive/u/0/folders/0B25hHW4ATym7Z1pTUUs0cEhOMHc?resourcekey=0-j9gbPSPBLx0GlnibzjR8zQ)
