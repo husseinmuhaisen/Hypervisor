@@ -107,3 +107,4 @@
 51. [Attacking Hypervisors a practical case](https://www.reversetactics.com/publications/2024_conf_grehack_virtualbox/)
 52. [Advanced x86 virtualization](https://drive.google.com/drive/u/0/folders/0B25hHW4ATym7Z1pTUUs0cEhOMHc?resourcekey=0-j9gbPSPBLx0GlnibzjR8zQ)
 53. [Writing a Hyper-V “Bridge” for Fuzzing — Part 1: WDF](https://www.alex-ionescu.com/writing-a-hyper-v-bridge-for-fuzzing-part-1-wdf/)
+54. [Decompiling Hyper-V Manager to rebuild it from source](https://awakecoding.com/posts/decompiling-hyper-v-manager-to-rebuild-it-from-source/)
