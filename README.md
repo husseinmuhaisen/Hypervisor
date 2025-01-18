@@ -109,3 +109,4 @@
 53. [Writing a Hyper-V “Bridge” for Fuzzing — Part 1: WDF](https://www.alex-ionescu.com/writing-a-hyper-v-bridge-for-fuzzing-part-1-wdf/)
 54. [Decompiling Hyper-V Manager to rebuild it from source](https://awakecoding.com/posts/decompiling-hyper-v-manager-to-rebuild-it-from-source/)
 55. [Hypervisor for fuzzing](https://github.com/gamozolabs/falkervisor_beta)
+56. [MiniVISOR research hypervisor written as a UEFI and Windows driver](https://github.com/tandasat/MiniVisorPkg)
