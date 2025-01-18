@@ -1,5 +1,4 @@
-## The most comprehensive repository on Virtualization Cybersecurity edition
-
+## The most comprehensive repository on Virtualization
 ## 😁 Awesome Repos 😁
 1. [Awesome Virtualization](https://github.com/Wenzel/awesome-virtualization)
 2. [Awesome Hyper-V exploitation](https://github.com/shogunlab/awesome-hyper-v-exploitation)
