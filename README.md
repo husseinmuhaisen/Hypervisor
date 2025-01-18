@@ -35,6 +35,7 @@
 6. [Virtual machine in C](https://web.archive.org/web/20200121100942/https://blog.felixangell.com/virtual-machine-in-c/)
 7. [Debugging Hyper-V for vulnerability research](https://www.youtube.com/watch?v=zu5RwY2jIcs)
 8. [QEMU Internals](https://airbus-seclab.github.io/qemu_blog/)
+9. [Collection of Hypervisor detections](https://github.com/can1357/hvdetecc)
 
 ## 🔗 HyperVisors 🔗
 1. [Light-weight Hyper-visor SDK](https://github.com/Bareflank/hypervisor)
