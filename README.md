@@ -110,3 +110,4 @@
 54. [Decompiling Hyper-V Manager to rebuild it from source](https://awakecoding.com/posts/decompiling-hyper-v-manager-to-rebuild-it-from-source/)
 55. [Hypervisor for fuzzing](https://github.com/gamozolabs/falkervisor_beta)
 56. [MiniVISOR research hypervisor written as a UEFI and Windows driver](https://github.com/tandasat/MiniVisorPkg)
+57. [WinVISOR](https://github.com/x86matthew/WinVisor)
