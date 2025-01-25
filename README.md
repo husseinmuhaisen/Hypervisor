@@ -113,3 +113,4 @@
 57. [WinVISOR](https://github.com/x86matthew/WinVisor)
 58. [Microsoft Docs](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/tlfs/virtual-interrupts)
 59. [Exploiting VMware ESXi paper](https://www.usenix.org/system/files/woot19-paper_zhao.pdf)
+60. [Hypervisor-based Virtualization Phd Researcher Guide](https://sites.google.com/site/masumzh/articles/hypervisor-based-virtualization?authuser=0)
