@@ -111,3 +111,5 @@
 55. [Hypervisor for fuzzing](https://github.com/gamozolabs/falkervisor_beta)
 56. [MiniVISOR research hypervisor written as a UEFI and Windows driver](https://github.com/tandasat/MiniVisorPkg)
 57. [WinVISOR](https://github.com/x86matthew/WinVisor)
+58. [Microsoft Docs](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/tlfs/virtual-interrupts)
+59. [Exploiting VMware ESXi paper](https://www.usenix.org/system/files/woot19-paper_zhao.pdf)
