@@ -24,6 +24,7 @@
 12. [Building a minimalstic Virtual machine](https://pointersgonewild.com/2023/02/24/building-a-minimalistic-virtual-machine/)
 13. [Write your own VM Justin Meiners](https://www.jmeiners.com/lc3-vm/)
 14. [CPU Emulation book](http://xsim.com/papers/Bario.2001.emubook.pdf)
+15. [Hypervisors crashcourse](https://blog.longterm.io/samsung_rkp.html#)
 
 ## Internals - TAKE CARE YOU MIGHT SPOT SOME SPIDERS DIGGING INTERNALLY
 1. [HV - Internals](https://hvinternals.blogspot.com/2015/10/hyper-v-internals.html)
