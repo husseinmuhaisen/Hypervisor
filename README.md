@@ -1,15 +1,15 @@
-## The most comprehensive repository on Virtualization
-## 😁 Awesome Repos 😁
+## The most comprehensive repository on Virtualization - TRULY IS
+## Awesome Repos - LOL
 1. [Awesome Virtualization](https://github.com/Wenzel/awesome-virtualization)
 2. [Awesome Hyper-V exploitation](https://github.com/shogunlab/awesome-hyper-v-exploitation)
 3. [Awesome Vulnerability research](https://github.com/securitychampions/Awesome-Vulnerability-Research)
 
-## 📖 Books 📖
+## Books - I KNOW YOU NEVER READ THOSE
 1. [Virtual Machines: Versatile Platforms for Systems and Processes](https://www.amazon.com/dp/1558609105)
 2. [Micro Kernel Book](https://github.com/nuta/microkernel-book)
 
 
-## 🛣️ Learning path-ways 🛣️
+## Learning path-ways - PATH WAYS TO SUCCESS LOL
 1. [RayanFam - Hyper visor from scratch](https://github.com/SinaKarvandi/Hypervisor-From-Scratch)
 2. [7 Days to Virtualization: A Series on Hypervisor Development](https://revers.engineering/7-days-to-virtualization-a-series-on-hypervisor-development/)
 3. [NixHacker developing a hyper visor from scratch](https://nixhacker.com/developing-hypervisior-from-scratch-part-1/)
@@ -25,7 +25,7 @@
 13. [Write your own VM Justin Meiners](https://www.jmeiners.com/lc3-vm/)
 14. [CPU Emulation book](http://xsim.com/papers/Bario.2001.emubook.pdf)
 
-## 🕸️ Internals 🕸️
+## Internals - TAKE CARE YOU MIGHT SPOT SOME SPIDERS DIGGING INTERNALLY
 1. [HV - Internals](https://hvinternals.blogspot.com/2015/10/hyper-v-internals.html)
 2. [Internals information about Hyper-V](https://github.com/gerhart01/Hyper-V-Internals)
 3. [Virtualization Internals Part 1 - Intro to Virtualization](http://web.archive.org/web/20180525151921/https://saferwall.com/blog/virtualization-internals-part-1-intro-to-virtualization)
@@ -36,7 +36,7 @@
 8. [QEMU Internals](https://airbus-seclab.github.io/qemu_blog/)
 9. [Collection of Hypervisor detections](https://github.com/can1357/hvdetecc)
 
-## 🔗 HyperVisors 🔗
+## HyperVisors - HYPE AND EXCITEMENT
 1. [Light-weight Hyper-visor SDK](https://github.com/Bareflank/hypervisor)
 2. [Hyper-V solution for x86 processors](https://github.com/Zero-Tang/NoirVisor)
 3. [Windows Hyper-visor platform docs/API](https://docs.microsoft.com/en-us/virtualization/api/hypervisor-platform/hypervisor-platform)
@@ -53,7 +53,7 @@
 
 
 
-## 👽 Miscellaneous 👽
+## Miscellaneous - ALIEN TYPE SH*T
 1. [Detecting VMware by reading invalid msr](https://howtohypervise.blogspot.com/2018/09/detecting-vmware-by-reading-invalid-msr.html)
 2. [Windows Kernel](https://www.matteomalvica.com/minutes/windows_kernel/)
 3. [Revisiting hardware-assisted page walks for virtualized systems](https://dl.acm.org/doi/abs/10.5555/2337159.2337214?download=true)
