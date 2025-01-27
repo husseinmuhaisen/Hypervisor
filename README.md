@@ -25,6 +25,7 @@
 13. [Write your own VM Justin Meiners](https://www.jmeiners.com/lc3-vm/)
 14. [CPU Emulation book](http://xsim.com/papers/Bario.2001.emubook.pdf)
 15. [Hypervisors crashcourse](https://blog.longterm.io/samsung_rkp.html#)
+16. [AMD-V Hypervisor Development - A Brief Explanation](https://blog.back.engineering/04/08/2022/)
 
 ## Internals - TAKE CARE YOU MIGHT SPOT SOME SPIDERS DIGGING INTERNALLY
 1. [HV - Internals](https://hvinternals.blogspot.com/2015/10/hyper-v-internals.html)
