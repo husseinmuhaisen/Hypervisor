@@ -119,3 +119,5 @@
 58. [Microsoft Docs](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/tlfs/virtual-interrupts)
 59. [Exploiting VMware ESXi paper](https://www.usenix.org/system/files/woot19-paper_zhao.pdf)
 60. [Hypervisor-based Virtualization Phd Researcher Guide](https://sites.google.com/site/masumzh/articles/hypervisor-based-virtualization?authuser=0)
+61. [Intel Docs](https://www.intel.com/content/www/us/en/business/enterprise-computers/resources/virtualization-security.html)
+62. [KVM Docs](https://www.linux-kvm.org/page/FAQ)
