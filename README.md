@@ -122,3 +122,4 @@
 61. [Intel Docs](https://www.intel.com/content/www/us/en/business/enterprise-computers/resources/virtualization-security.html)
 62. [KVM Docs](https://www.linux-kvm.org/page/FAQ)
 63. [Hyper-V Internals Repo](https://github.com/gerhart01/Hyper-V-Internals/blob/master/HyperResearchesHistory.md)
+64. [PulseDBG A hypervisor debugger](https://github.com/honorarybot/PulseDbg/)
