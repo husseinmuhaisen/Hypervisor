@@ -123,3 +123,4 @@
 62. [KVM Docs](https://www.linux-kvm.org/page/FAQ)
 63. [Hyper-V Internals Repo](https://github.com/gerhart01/Hyper-V-Internals/blob/master/HyperResearchesHistory.md)
 64. [PulseDBG A hypervisor debugger](https://github.com/honorarybot/PulseDbg/)
+65. [Attacking Hyper-v](https://papers.put.as/papers/vulndev/2019/JaanusPOC.pdf)
