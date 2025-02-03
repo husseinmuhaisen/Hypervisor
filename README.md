@@ -55,6 +55,7 @@
 14. [ApplePie](https://github.com/gamozolabs/applepie)
 15. [Zpp_Hypervisor](https://github.com/eyalz800/zpp_hypervisor)
 16. [Light weight Hypervisor](https://github.com/KelvinMsft/kHypervisor)
+17. [HyperBone Minimalistic VT-X hypervisor](https://github.com/DarthTon/HyperBone)
 
 
 
