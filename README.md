@@ -125,3 +125,7 @@
 64. [PulseDBG A hypervisor debugger](https://github.com/honorarybot/PulseDbg/)
 65. [Attacking Hyper-v](https://papers.put.as/papers/vulndev/2019/JaanusPOC.pdf)
 66. [List of HyperVisor Projects in RUST](https://github.com/stars/memN0ps/lists/hypervisor)
+67. [a stealthy debugging framework implemented via an Intel VT-x hypervisor](https://github.com/changeofpace/VivienneVMM)
+68. [Capsule Hypervisor](https://github.com/cappsule/cappsule-hypervisor)
+69. [hvpp is a lightweight Intel x64/VT-x hypervisor written in C++](https://github.com/wbenny/hvpp)
+
