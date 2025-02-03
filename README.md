@@ -128,4 +128,5 @@
 67. [a stealthy debugging framework implemented via an Intel VT-x hypervisor](https://github.com/changeofpace/VivienneVMM)
 68. [Capsule Hypervisor](https://github.com/cappsule/cappsule-hypervisor)
 69. [hvpp is a lightweight Intel x64/VT-x hypervisor written in C++](https://github.com/wbenny/hvpp)
+70. [IA32-doc is a project which aims to put as many definitions from the Intel Manual into machine-processable format as possible](https://github.com/ia32-doc/ia32-doc)
 
