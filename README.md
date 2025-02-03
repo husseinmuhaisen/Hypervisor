@@ -131,4 +131,5 @@
 69. [hvpp is a lightweight Intel x64/VT-x hypervisor written in C++](https://github.com/wbenny/hvpp)
 70. [IA32-doc is a project which aims to put as many definitions from the Intel Manual into machine-processable format as possible](https://github.com/ia32-doc/ia32-doc)
 71. [Hypervisor Memory Introspection Core Library](https://github.com/bitdefender/hvmi)
+72. [GH user starred list](https://github.com/gmh5225?submit=Search&q=hypervisor&tab=stars&type=&sort=&direction=&submit=Search)
 
