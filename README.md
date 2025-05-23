@@ -135,4 +135,5 @@
 73. [vmine](https://github.com/thalium/vminer)
 74. [Virtualization-Based Security with Hyper-V: Exploring Hyper-V mechanisms and Virtualization Based Security](https://amitmoshel1.github.io/posts/virtualization-based-security-with-hyper-v-exploring-hyper-v-mechanisms-and-virtualization-based-security/)
 75. [Toolkit for Hyper-V security research (currently only x64)](https://github.com/JaanusKaapPublic/HyperViper)
+76. [Virtualization from an attacker point-of-view](https://www.reversetactics.com/publications/2023_conf_grehack_virtualization/)
 
