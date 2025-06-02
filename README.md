@@ -140,4 +140,5 @@
 78. [The Great Escape - A Case Study of VM Escape and EoP Vulnerabilities](https://github.com/star-sg/Presentations/blob/main/HITCON%202021/The%20Great%20Escape%20-%20A%20Case%20Study%20of%20VM%20Escape%20and%20EoP%20Vulnerabilities(HITCON%202021).pdf)
 79. [Hypervisor detector](https://github.com/void-stack/Hypervisor-Detection)
 80. [Hypervisors for Memory Introspection and Reverse Engineering](https://secret.club/2025/06/02/hypervisors-for-memory-introspection-and-reverse-engineering.html)
+81. [Rust Hypervisor development stuff](https://github.com/stars/memN0ps/lists/hypervisor)
 
