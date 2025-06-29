@@ -142,4 +142,5 @@
 80. [Hypervisors for Memory Introspection and Reverse Engineering](https://secret.club/2025/06/02/hypervisors-for-memory-introspection-and-reverse-engineering.html)
 81. [Rust Hypervisor development stuff](https://github.com/stars/memN0ps/lists/hypervisor)
 82. [VMware Exploitation](https://github.com/xairy/vmware-exploitation)
+83. [I made my VM think it has a CPU fan](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)
 
