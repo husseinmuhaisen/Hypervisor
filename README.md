@@ -146,4 +146,5 @@
 82. [VMware Exploitation](https://github.com/xairy/vmware-exploitation)
 83. [I made my VM think it has a CPU fan](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)
 84. [What is a hypervvisor? Off-By-One 2025](https://www.youtube.com/watch?v=bzGuq97oROc)
+85. [https://kirschju.re/posts/exposing-model-specific-registers-via-qemu-monitor/](https://kirschju.re/posts/exposing-model-specific-registers-via-qemu-monitor/)
 
