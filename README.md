@@ -58,6 +58,7 @@
 17. [HyperBone Minimalistic VT-X hypervisor](https://github.com/DarthTon/HyperBone)
 18. [Windows Type-2 Hypervisor](https://github.com/CR3Swapper/bluepill)
 19. [Windows Hypervvisor](https://github.com/emesare/windows-hypervisor)
+20. [Defensive - Nova Hypervisor](https://github.com/Idov31/NovaHypervisor)
 
 
 
