@@ -149,4 +149,5 @@
 84. [What is a hypervvisor? Off-By-One 2025](https://www.youtube.com/watch?v=bzGuq97oROc)
 85. [https://kirschju.re/posts/exposing-model-specific-registers-via-qemu-monitor/](https://kirschju.re/posts/exposing-model-specific-registers-via-qemu-monitor/)
 86. [[Nova](https://github.com/udosteinberg/NOVA.git)](https://hypervisor.org/)
+87. [NoahWare](https://github.com/noahware/hyper-reV)
 
