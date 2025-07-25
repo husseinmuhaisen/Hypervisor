@@ -151,4 +151,5 @@
 86. [[Nova](https://github.com/udosteinberg/NOVA.git)](https://hypervisor.org/)
 87. [NoahWare](https://github.com/noahware/hyper-reV)
 88. [QemU Internals](https://github.com/airbus-seclab/qemu_blog)
+89. [Awesome UEFI sec](https://github.com/river-li/awesome-uefi-security)
 
