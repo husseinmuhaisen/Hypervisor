@@ -152,4 +152,5 @@
 87. [NoahWare](https://github.com/noahware/hyper-reV)
 88. [QemU Internals](https://github.com/airbus-seclab/qemu_blog)
 89. [Awesome UEFI sec](https://github.com/river-li/awesome-uefi-security)
+90. [Research Focused Hypervisor](https://github.com/rce-3/xenith)
 
