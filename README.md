@@ -154,4 +154,5 @@
 89. [Awesome UEFI sec](https://github.com/river-li/awesome-uefi-security)
 90. [Research Focused Hypervisor](https://github.com/rce-3/xenith)
 91. [Hyper-V Backdoor](https://github.com/Cr4sh/s6_pcie_microblaze/blob/master/python/payloads/DmaBackdoorHv/README.MD)
+92. [Hyper-V Research](https://r0keb.github.io/posts/Hyper-V-Research/)
 
