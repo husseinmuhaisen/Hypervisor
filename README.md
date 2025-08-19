@@ -155,4 +155,5 @@
 90. [Research Focused Hypervisor](https://github.com/rce-3/xenith)
 91. [Hyper-V Backdoor](https://github.com/Cr4sh/s6_pcie_microblaze/blob/master/python/payloads/DmaBackdoorHv/README.MD)
 92. [Hyper-V Research](https://r0keb.github.io/posts/Hyper-V-Research/)
+93. [The definitive guide to the Xen Hypervisor](https://theswissbay.ch/pdf/Books/Computer%20science/The%20Definitive%20Guide%20to%20the%20Xen%20Hypervisor%20-%20David%20Chisnall.pdf)
 
