@@ -59,6 +59,7 @@
 18. [Windows Type-2 Hypervisor](https://github.com/CR3Swapper/bluepill)
 19. [Windows Hypervvisor](https://github.com/emesare/windows-hypervisor)
 20. [Defensive - Nova Hypervisor](https://github.com/Idov31/NovaHypervisor)
+21. [Stealth AMd](https://github.com/not1cyyy/BaddiesHV/)
 
 
 
