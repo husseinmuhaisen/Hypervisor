@@ -26,6 +26,7 @@
 14. [CPU Emulation book](http://xsim.com/papers/Bario.2001.emubook.pdf)
 15. [Hypervisors crashcourse](https://blog.longterm.io/samsung_rkp.html#)
 16. [AMD-V Hypervisor Development - A Brief Explanation](https://blog.back.engineering/04/08/2022/)
+17. [HyperVisor For Hackers](https://github.com/tandasat/Hypervisors-for-Hackers)
 
 ## Internals - TAKE CARE YOU MIGHT SPOT SOME SPIDERS DIGGING INTERNALLY
 1. [HV - Internals](https://hvinternals.blogspot.com/2015/10/hyper-v-internals.html)
@@ -161,4 +162,6 @@
 95. [Hypervisor in 1000 lines of code](https://1000hv.seiya.me/en/)
 96. [Virtualbox Vulnerability Research Experience](https://faith2dxy.xyz/2025-10-07/virtualbox-hacking-experience/)
 97. [Recon 2025 - HyperVinject Making Virtual Machine Code Injections as Simple as Process Injections](https://www.youtube.com/watch?v=hpmRQZ6T7YM)
+98. [HvArm: Chapter 0: Introduction to UEFI and the EFI Development Kit](https://0xabe.io/hypervisor/arm/2026/03/01/HvArm-Chapter-0.html)
+99. [Bug Tamer: Turning Limited Heap Overflow into Full VMware Escape](https://powerofcommunity.net/2025/slide/y-91b4d.pdf)
 
