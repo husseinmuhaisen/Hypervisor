@@ -164,4 +164,5 @@
 97. [Recon 2025 - HyperVinject Making Virtual Machine Code Injections as Simple as Process Injections](https://www.youtube.com/watch?v=hpmRQZ6T7YM)
 98. [HvArm: Chapter 0: Introduction to UEFI and the EFI Development Kit](https://0xabe.io/hypervisor/arm/2026/03/01/HvArm-Chapter-0.html)
 99. [Bug Tamer: Turning Limited Heap Overflow into Full VMware Escape](https://powerofcommunity.net/2025/slide/y-91b4d.pdf)
+100. [Hypervisor crack audit](https://github.com/RD945/hypervisor-crack-audit)
 
