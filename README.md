@@ -61,6 +61,7 @@
 19. [Windows Hypervvisor](https://github.com/emesare/windows-hypervisor)
 20. [Defensive - Nova Hypervisor](https://github.com/Idov31/NovaHypervisor)
 21. [Stealth AMd](https://github.com/not1cyyy/BaddiesHV/)
+22. [https://github.com/zer0condition/Ophion](https://github.com/zer0condition/Ophion)
 
 
 
@@ -165,4 +166,6 @@
 98. [HvArm: Chapter 0: Introduction to UEFI and the EFI Development Kit](https://0xabe.io/hypervisor/arm/2026/03/01/HvArm-Chapter-0.html)
 99. [Bug Tamer: Turning Limited Heap Overflow into Full VMware Escape](https://powerofcommunity.net/2025/slide/y-91b4d.pdf)
 100. [Hypervisor crack audit](https://github.com/RD945/hypervisor-crack-audit)
+101. [Ophion: Building a Stealth Intel VT-x Hypervisor for Windows](https://websec.net/blog/ophion-building-a-stealth-intel-vt-x-hypervisor-for-windows-69b62daa7462693131828c97)
+102. [Extract Windows credentials directly from VM memory snapshots and virtual disks](https://github.com/nikaiw/VMkatz)
 
